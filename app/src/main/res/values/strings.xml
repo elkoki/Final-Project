@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities try</string>
+    <string name="title_home">Info</string>
+    <string name="title_dashboard">Caclculator</string>
+    <string name="title_notifications">Options</string>
+    <string name="Browser">Browser</string>
+</resources>
